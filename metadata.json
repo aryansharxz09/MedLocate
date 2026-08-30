@@ -1,0 +1,7 @@
+{
+  "name": "MedLocate",
+  "description": "Find, verify, and track medical equipment and emergency hospital availability before leaving home.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
